@@ -23,6 +23,8 @@ Ojetivos específicos
 - Implemente el circuito que se presenta en la figura
 
 
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20173530.png)
+
 - Resultados obtenidos para el circuito.
 
 # Video
