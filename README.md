@@ -7,6 +7,7 @@ Ojetivos específicos
 
 # Marco teórico
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/png%20(21).png)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/png%20(22).png)
 - Material y equipo requerido
 
 |Cantidad| Material o Equipo|
