@@ -20,6 +20,8 @@ Ojetivos específicos
 |1| Protoboard|
 
 # Procedimiento
+- Implemente el circuito que se presenta en la figura
+
 
 - Resultados obtenidos para el circuito.
 
