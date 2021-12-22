@@ -23,8 +23,20 @@ Ojetivos específicos
 # Procedimiento
 - Implemente el circuito que se presenta en la figura
 
-
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20173530.png)
+
+- Resolución simulada
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.01%20PM.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.22%20PM.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.44%20PM.jpeg)
+
+- Simule en el software Multisim
+
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194325.png)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194531.png)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194417.png)
+
+- Resolución analitica
 
 - Resultados obtenidos para el circuito.
 
