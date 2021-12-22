@@ -2,9 +2,11 @@
 # Objetivos
 
 Objetivo General
-
+- Analizar el circuito esquemático propuesto, aplicando el teorema de superposición, para comprobar mediante un experimento práctico los resultados analíticos, experimentales y simulados.
 Ojetivos específicos
-
+1. Explicar de manera teórica el Teorema de Superposición por medio de un mapa sinóptico.
+2. Comprobar experimentalmente el Teorema de Superposición.
+3. Interpreatar los resultados obtenedos los cuales permitan concluir de acuerdo a al Teorema de superposión.
 # Marco teórico
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/png%20(21).png)
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/png%20(22).png)
