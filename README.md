@@ -68,6 +68,16 @@
 |---------|------|---------|------|---------|------|
 |||||||
 
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+|Corriente Total (Ix)|Corriente (Ix) Cuando v2=0|Corriente (Ix) Cuando v1=0|
+|------------------|------------------------|------------------------|
+
+|Calculado|Medido|Calculado|Medido|Calculado|Medido|
+|---------|------|---------|------|---------|------|
+|||||||
+
+Tabla 4.2. Medición de corriente aplicando superposición.
 # Video
 
 # Conclusiones 
