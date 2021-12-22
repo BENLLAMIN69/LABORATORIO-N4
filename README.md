@@ -1,9 +1,11 @@
 # LABORATORIO-N4
 # Objetivos
 
-Objetivo General
+# Objetivo General
 - Analizar el circuito esquemático propuesto, aplicando el teorema de superposición, para comprobar mediante un experimento práctico los resultados analíticos, experimentales y simulados.
-Ojetivos específicos
+
+# Ojetivos específicos
+
 1. Explicar de manera teórica el Teorema de Superposición por medio de un mapa sinóptico.
 2. Comprobar experimentalmente el Teorema de Superposición.
 3. Interpreatar los resultados obtenedos los cuales permitan concluir de acuerdo a al Teorema de superposión.
@@ -29,29 +31,29 @@ Ojetivos específicos
 
 - Resolución simulada
 
-Circuito completo
+# Circuito completo
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.01%20PM.jpeg)
 
-Capa 1
+# Capa 1
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.44%20PM.jpeg)
 
-Capa 2
+# Capa 2
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.22%20PM.jpeg)
 
 - Simule en el software Multisim
 
-Circuito completo
+# Circuito completo
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194325.png)
 
-Capa 1
+# Capa 1
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194417.png)
 
-Capa 2
+# Capa 2
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194531.png)
 
