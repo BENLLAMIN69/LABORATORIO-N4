@@ -61,9 +61,12 @@
 
 - Resultados obtenidos para el circuito.
 
-|Voltaje Total |Voltaje (VA)|Voltaje (VA)|
-|(VA)|Cuando v2=0|Cuando v1=0|
-|----|-----------|-----------|
+|Voltaje Total (VA)|Voltaje (VA) Cuando v2=0|Voltaje (VA) Cuando v1=0|
+|------------------|------------------------|------------------------|
+
+|Calculado|Medido|Calculado|Medido|Calculado|Medido|
+|---------|------|---------|------|---------|------|
+|||||||
 
 # Video
 
