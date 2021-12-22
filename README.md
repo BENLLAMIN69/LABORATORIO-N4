@@ -33,11 +33,11 @@ Circuito completo
 
 Capa 1
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.22%20PM.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.44%20PM.jpeg)
 
 Capa 2
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.44%20PM.jpeg)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.22%20PM.jpeg)
 
 - Simule en el software Multisim
 
