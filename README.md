@@ -33,29 +33,29 @@
 
 # Circuito completo
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.01%20PM.jpeg)
+![image](https://user-images.githubusercontent.com/93899422/147172313-c5ee7518-36a4-4b02-bf77-af9fdbaf99c1.png)
 
 # Capa 1
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.44%20PM.jpeg)
+![image](https://user-images.githubusercontent.com/93899422/147172400-cca2b1cd-3ca6-41c8-9b2a-39aa57fffdb5.png)
 
 # Capa 2
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/WhatsApp%20Image%202021-12-21%20at%204.37.22%20PM.jpeg)
+![image](https://user-images.githubusercontent.com/93899422/147172426-0e4b3f81-91b0-45c5-beb0-e2fc03221fa1.png)
 
 - Simule en el software Multisim
 
 # Circuito completo
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194325.png)
+![image](https://user-images.githubusercontent.com/93899422/147172825-cd043ad5-28f9-49bd-8e1a-e3e745ba8cdb.png)
 
 # Capa 1
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194417.png)
+![image](https://user-images.githubusercontent.com/93899422/147172857-70f6057f-aecb-4b93-9b1e-5e6aa3eba32d.png)
 
 # Capa 2
 
-![](https://github.com/BENLLAMIN69/LABORATORIO-N4/blob/main/ima/Captura%20de%20pantalla%202021-12-21%20194531.png)
+![image](https://user-images.githubusercontent.com/93899422/147172900-8500991d-3696-40b9-aa71-bad85bc84bc8.png)
 
 - Resolución analitica
 
