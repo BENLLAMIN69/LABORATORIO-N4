@@ -66,6 +66,9 @@
 ![image](https://user-images.githubusercontent.com/93900233/147196631-b8e8bd2a-f9f3-410b-95d8-8102d8de6557.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/147196755-18d6df66-7b1b-4344-8cc0-b801193fc3ef.png)
+
+![image](https://user-images.githubusercontent.com/93900233/147196891-653cbe0c-5c45-482f-a168-12b014162830.png)
+
 - Resultados obtenidos para el circuito.
 
 |Voltaje Total (VA)|Voltaje (VA) Cuando v2=0|Voltaje (VA) Cuando v1=0|
