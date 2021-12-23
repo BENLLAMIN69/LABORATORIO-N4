@@ -66,7 +66,7 @@
 
 |Calculado|Medido|Calculado|Medido|Calculado|Medido|
 |---------|------|---------|------|---------|------|
-|||||||
+|946.3 mV|952 mV|7.46 V|7.48 V|6.5237 V|6.53 V|
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
@@ -75,7 +75,7 @@ Tabla 4.1. Medición de voltaje aplicando superposición.
 
 |Calculado|Medido|Calculado|Medido|Calculado|Medido|
 |---------|------|---------|------|---------|------|
-|||||||
+|25.53 mA|25.5 mA|0 A|0 A|25.53 mA|25.5 mA|
 
 Tabla 4.2. Medición de corriente aplicando superposición.
 # Video
