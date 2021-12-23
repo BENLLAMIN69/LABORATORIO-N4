@@ -47,15 +47,15 @@
 
 # Circuito completo
 
-![image](https://user-images.githubusercontent.com/93899422/147172825-cd043ad5-28f9-49bd-8e1a-e3e745ba8cdb.png)
+![image](https://user-images.githubusercontent.com/93899422/147173002-a53d3cd1-3ed2-4b0b-a3a7-a6e7109c8eaf.png)
 
 # Capa 1
 
-![image](https://user-images.githubusercontent.com/93899422/147172857-70f6057f-aecb-4b93-9b1e-5e6aa3eba32d.png)
+![image](https://user-images.githubusercontent.com/93899422/147173018-2d81b264-897c-4bc5-bd3d-763f0cc79ebc.png)
 
 # Capa 2
 
-![image](https://user-images.githubusercontent.com/93899422/147172900-8500991d-3696-40b9-aa71-bad85bc84bc8.png)
+![image](https://user-images.githubusercontent.com/93899422/147173051-df040ec9-1e1a-4311-9539-1a8f6005f543.png)
 
 - Resolución analitica
 
